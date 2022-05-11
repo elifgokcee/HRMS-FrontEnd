@@ -1,0 +1,26 @@
+.advertDetail{
+    width: 100%;
+    background-color: #e5e5b6;
+    margin: 20px;
+}
+.row,.eight.wide.column,.ui.cards,.row{
+    display: flex;
+    justify-content: center;
+    align-items: center!important;
+    width: 100%!important;
+    height: 600px;
+   
+    display: block!important;
+}
+.ui.card{
+    height: 100%;
+    
+}
+.cities:hover,.cities:focus{
+
+border: none!important;
+
+}
+.visible.menu.transition{
+    border: none!important;
+}
