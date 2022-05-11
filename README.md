@@ -1,5 +1,32 @@
 ![hrmsSS](https://user-images.githubusercontent.com/84589118/167912682-0c71edbf-9e5a-499f-a0d4-d3365e337f6e.png)
 
+HRMS sistemimizde tüm isterler için;
+
+Bir adet React projesi oluşturunuz.
+Component hiyerarşinizi "UML component diagram" tekniğini kullanarak modelleyiniz. (araştırma)
+Model görselinizi github readme dosyanıza ekleyiniz.
+React componentlerinizi oluşturunuz.
+Tüm React Componentlerinizi sadece tasarımsal olarak oluşturunuz.
+Tüm isterler için JavaScript servislerini ve axios kodlarını yazınız. Bunları React componentlerine bağlamayınız. (Post,Put,Delete araştırma)
+Sadece listeleme olan isterleri JS servisinizle bağlayınız.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
