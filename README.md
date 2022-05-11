@@ -1,4 +1,5 @@
 ![hrmsSS](https://user-images.githubusercontent.com/84589118/167912682-0c71edbf-9e5a-499f-a0d4-d3365e337f6e.png)
+![HRMSUML (2)](https://user-images.githubusercontent.com/84589118/167914381-71c4333b-a812-4a30-b7a3-ad79e263ef42.jpg)
 
 HRMS sistemimizde tüm isterler için;
 
